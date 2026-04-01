@@ -1,0 +1,8 @@
+
+> pokedex-ts@1.0.0 dev
+> npx tsc && node dist/main.js
+
+Pokedex > Throwing a Pokeball at squirtle...
+Pokedex > squirtle was caught!
+Throwing a Pokeball at pikachu...
+Pokedex > pikachu was caught!
